@@ -10,7 +10,7 @@ from usuario import USUARIOS, Usuario, Usuarios
 COMENTARIOS = {
     1: {"Id cliente": "3206", "Id libro": "0012", "Fecha de comentario": "02/07/2011"},
     2: {"Id cliente": "3201", "Id libro": "0013", "Fecha de comentario": "02/07/2011"},
-    3: {"Id cliente": "3208", "Id libro": "0011", "Fecha de comentario": "02/07/2011"},
+    3: {"Id cliente": "3208", "Id libro": "0011", "Fecha de comentario": "02/07/2012"},
     4: {"Id cliente": "3207", "Id libro": "0014", "Fecha de comentario": "02/07/2011"},
     
 }

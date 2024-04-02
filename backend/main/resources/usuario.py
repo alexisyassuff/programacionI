@@ -7,7 +7,7 @@ USUARIOS = {
     2: {'nombre':'Daniel', 'Apellido':"Palacio", "id": "3205", "nro de contacto": "000000002" },
     3: {'nombre':'Alberto', 'Apellido':"Martinez", "id": "3206", "nro de contacto": "000000003" },
     4: {'nombre':'Maria', 'Apellido':"Flores", "id": "3207", "nro de contacto": "000000004" },
-    5: {'nombre':'Juana', 'Apellido':"Peña", "id": "3208", "nro de contacto": "000000005" },
+    5: {'nombre':'Juana', 'Apellido':"Peña", "id": "3208", "nro de contacto": "000000077" },
 }
 
 class Usuarios(Resource): 

@@ -3,7 +3,7 @@ from flask import request
 
 LIBROS = {
     1: {'Titulo':'Harry Potter', "Editorial": "Resma", "Id Libro": "0001", 'Comentarios':'Buen libro', 'Valoracion':'5'    },
-    2: {'Titulo':'El alquimista', "Editorial": "Puerto de Palos", "Id Libro": "0011", 'Comentarios':'Pesimo', 'Valoracion':'4'      },
+    2: {'Titulo':'El alquimista', "Editorial": "Puerto de Palos", "Id Libro": "0013", 'Comentarios':'Pesimo', 'Valoracion':'4'      },
     3: {'Titulo':'Jorge Biografia', "Editorial": "Puerto de Palos", "Id Libro": "0012", 'Comentarios':'Buen prologo', 'Valoracion':'2'      },
     4: {'Titulo':'Garcia Marquez Biografia', "Editorial": "Santander", "Id Libro": "0014", 'Comentarios':'Regular', 'Valoracion':'3'     },
 }
